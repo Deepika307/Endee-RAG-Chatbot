@@ -72,7 +72,7 @@ Semantic Search (Cosine Similarity)
 Context Retrieval
 ↓
 Answer Generation (LLM / HuggingFace)
-
+```
 ## 🧩 Project Structure
 
 Endee-RAG-Chatbot/
@@ -102,7 +102,7 @@ Endee-RAG-Chatbot/
 ├── README.md
 ├── .gitignore
 └── screenshots/
-
+```
 ---
 
 ## 🗄️ How Endee Is Used
