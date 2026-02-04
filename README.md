@@ -3,10 +3,10 @@
 An AI-powered **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents and ask natural language questions.  
 The system retrieves the most relevant document chunks using **semantic vector search powered by Endee** and generates concise answers grounded in the uploaded document.
 
----
+
 
 ## 🚀 Project Overview
-
+```
 Large documents (research papers, reports, PDFs) are difficult to query efficiently.  
 This project solves that problem by combining:
 
