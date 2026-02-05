@@ -92,21 +92,25 @@ This demonstrates **core vector search capabilities**, which are central to mode
 
 ### 1️⃣ Clone the Repository
 
-
+```
 git clone <your-github-repo-url>
 cd Endee-RAG-Chatbot
+```
 
 ### 2️⃣ Create Virtual Environment
-
+```
 python -m venv venv
 venv\Scripts\activate   # Windows
+```
 ### 3️⃣ Install Dependencies
+```
 pip install -r requirements.txt
 pip install streamlit sentence-transformers numpy pypdf transformers torch
-
+```
 ### 4️⃣ Run the Application
+```
 streamlit run app.py
-
+```
 ## 🧪 How to Use
 
 - Upload a PDF document
