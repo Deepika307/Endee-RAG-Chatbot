@@ -6,7 +6,7 @@ The system retrieves the most relevant document chunks using **semantic vector s
 
 
 ## 🚀 Project Overview
-```
+
 Large documents (research papers, reports, PDFs) are difficult to query efficiently.  
 This project solves that problem by combining:
 
@@ -15,7 +15,6 @@ This project solves that problem by combining:
 - **RAG (Retrieval-Augmented Generation)** for accurate, context-aware answers
 - **Streamlit UI** for an interactive user experience
 
----
 
 ## 🧠 Use Case Demonstrated
 
@@ -23,7 +22,6 @@ This project solves that problem by combining:
 ✅ Semantic Search over PDFs  
 ✅ Practical AI application using vector databases
 
----
 
 ## 🏗️ System Architecture
 
@@ -32,7 +30,6 @@ This project solves that problem by combining:
 An AI-powered **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents and ask natural language questions.  
 The system retrieves the most relevant document chunks using **semantic vector search powered by Endee** and generates concise answers grounded in the uploaded document.
 
----
 
 ## 🚀 Project Overview
 
@@ -44,7 +41,7 @@ This project solves that problem by combining:
 - **RAG (Retrieval-Augmented Generation)** for accurate, context-aware answers
 - **Streamlit UI** for an interactive user experience
 
----
+
 
 ## 🧠 Use Case Demonstrated
 
@@ -52,7 +49,6 @@ This project solves that problem by combining:
 ✅ Semantic Search over PDFs  
 ✅ Practical AI application using vector databases
 
----
 
 ## 🏗️ System Architecture
 
@@ -72,9 +68,9 @@ Semantic Search (Cosine Similarity)
 Context Retrieval
 ↓
 Answer Generation (LLM / HuggingFace)
-```
-## 🧩 Project Structure
 
+## 🧩 Project Structure
+```
 Endee-RAG-Chatbot/
 │
 ├── backend/
