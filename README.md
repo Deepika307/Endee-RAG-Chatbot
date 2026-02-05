@@ -92,12 +92,11 @@ This demonstrates **core vector search capabilities**, which are central to mode
 
 ### 1️⃣ Clone the Repository
 
-````bash
+
 git clone <your-github-repo-url>
 cd Endee-RAG-Chatbot
 
 ### 2️⃣ Create Virtual Environment
-``` bash
 
 python -m venv venv
 venv\Scripts\activate   # Windows
@@ -133,4 +132,3 @@ Generated answer
 
 Deepika
 AI / ML Enthusiast
-````
