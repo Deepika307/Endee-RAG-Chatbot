@@ -107,28 +107,33 @@ pip install streamlit sentence-transformers numpy pypdf transformers torch
 ### 4️⃣ Run the Application
 streamlit run app.py
 
-🧪 How to Use
+## 🧪 How to Use
 
-Upload a PDF document
+- Upload a PDF document
 
-Click Process Document
+- Click Process Document
 
-Ask any question related to the document
+- Ask any question related to the document
 
-The system retrieves relevant content and generates an answer
+- The system retrieves relevant content and generates an answer
 
-📸 Screenshots
+## 📸 Screenshots
+<img width="1600" height="839" alt="image" src="https://github.com/user-attachments/assets/db79cb6d-d20a-43b4-a1ec-fcc6b6055fdf" />
 
-Screenshots of:
   
-PDF upload
+PDF upload: <img width="1600" height="817" alt="image" src="https://github.com/user-attachments/assets/bcd84387-ca87-4acc-8fee-649d6e7622f8" />
 
-Retrieved context
 
-Generated answer
+Retrieved context: ![WhatsApp Image 2026-02-05 at 9 57 31 PM](https://github.com/user-attachments/assets/0e9b5c36-b5e2-4509-bc9d-f0bf9ad910d1)
+![WhatsApp Image 2026-02-05 at 9 58 00 PM](https://github.com/user-attachments/assets/e01e092e-0fc5-4162-8402-2afa72e8b144)
 
-(Stored inside /screenshots folder)
-👩‍💻 Author
+
+
+Generated answer: ![WhatsApp Image 2026-02-05 at 9 58 26 PM](https://github.com/user-attachments/assets/f28c8de2-3c43-4007-a191-11935e9b04c4)
+
+
+
+## 👩‍💻 Author
 
 Deepika
 AI / ML Enthusiast
