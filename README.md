@@ -120,7 +120,7 @@ The system retrieves relevant content and generates an answer
 📸 Screenshots
 
 Screenshots of:
-
+  
 PDF upload
 
 Retrieved context
