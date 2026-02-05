@@ -1,29 +1,3 @@
-# 📄 Endee PDF RAG Chatbot
-
-An AI-powered **Retrieval-Augmented Generation (RAG)** application that allows users to upload PDF documents and ask natural language questions.  
-The system retrieves the most relevant document chunks using **semantic vector search powered by Endee** and generates concise answers grounded in the uploaded document.
-
-
-
-## 🚀 Project Overview
-
-Large documents (research papers, reports, PDFs) are difficult to query efficiently.  
-This project solves that problem by combining:
-
-- **Semantic Search** using vector embeddings
-- **Endee Vector Database** for similarity-based retrieval
-- **RAG (Retrieval-Augmented Generation)** for accurate, context-aware answers
-- **Streamlit UI** for an interactive user experience
-
-
-## 🧠 Use Case Demonstrated
-
-✅ Retrieval-Augmented Generation (RAG)  
-✅ Semantic Search over PDFs  
-✅ Practical AI application using vector databases
-
-
-## 🏗️ System Architecture
 
 # 📄 Endee PDF RAG Chatbot
 
